@@ -326,3 +326,11 @@ a {
   
 }
 /* END: trending media queries */
+ul:hover li {
+  opacity: 0.5;
+}
+
+ul li:hover {
+  opacity: 1;
+}
+
